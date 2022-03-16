@@ -1,0 +1,86 @@
+.body{
+ background-color: aqua;
+
+}
+
+.box1{
+  background-image: url("../image/bosh-kiyim.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.box2{
+  background-image: url("../image/kastum-shim.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.box3{
+  background-image: url("../image/kurtkalar.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.box4{
+  background-image: url("../image/koylaklar.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.box5{
+  background-image: url("../image/oyoq-kiym.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+
+
+.div{
+  position: relative;
+}
+
+.bot-img{
+  display: block;
+  width: 250px;
+  height: 250px;
+  margin-top: 300px;
+  margin-left: auto;
+  border-radius: 50%;
+}
+
+.btn-rec{
+  position: absolute;
+  bottom: 40px;
+  left: 87%;
+  z-index: 1;
+  padding:10px 30px;
+  border:none;
+  border-radius: 20px;
+  background-color: coral;
+}
+.user{
+  display: block;
+  width: 350px;
+  margin: 0 auto;
+  border: 1px solid transparent;
+  background-color: blueviolet;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.text{
+  color:lightyellow;
+  
+}
